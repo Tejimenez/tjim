@@ -1,5 +1,6 @@
 [
     { "alumno": "Tonny", "nota": 8, "ranking": 100 },
     { "alumno": "María", "nota": 9, "ranking": 50 },
+    { "alumno": "Jose", "nota": 5, "ranking": 130 },
     { "alumno": "Luis", "nota": 7, "ranking": 150 }
 ]
